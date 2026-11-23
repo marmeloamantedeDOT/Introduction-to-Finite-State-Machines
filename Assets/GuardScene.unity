@@ -323,7 +323,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: b9faa4ef431615c4a9390b9de499692a, type: 2}
   m_BuildHeightMesh: 0
 --- !u!1 &153568109
 GameObject:
@@ -2372,7 +2372,7 @@ Transform:
   m_GameObject: {fileID: 941381175}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.24, y: -2.5290692, z: 2.14}
+  m_LocalPosition: {x: -1.69, y: -2.5290692, z: 2.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3175,7 +3175,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1410657514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61d533d652dadd84dbba7e555fd75e36, type: 3}
+  m_Script: {fileID: 11500000, guid: 0ada1f6978755dd48b45224e56277395, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AI
   player: {fileID: 632712596}
